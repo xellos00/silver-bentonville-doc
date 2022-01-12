@@ -1,0 +1,16 @@
+{
+  "intro_comment": {
+    "desc": "DSRV Pilot API which auto-generated from Silver Bentonville API's Protobuffs"
+  },
+  "refer_link": {
+    "google.protobuf.Struct" : "https://github.com/protocolbuffers/protobuf/blob/master/src/google/protobuf/struct.proto",
+    "google.protobuf.Timestamp" : "https://github.com/protocolbuffers/protobuf/blob/master/src/google/protobuf/timestamp.proto",
+    "google.protobuf.Empty": "https://github.com/protocolbuffers/protobuf/blob/master/src/google/protobuf/empty.proto",
+    "google.protobuf.ListValue":"https://developers.google.com/protocol-buffers/docs/reference/overview",
+    "google.protobuf.Value": "https://developers.google.com/protocol-buffers/docs/reference/overview",
+    "int32": "https://github.com/protocolbuffers/protobuf/blob/master/src/google/protobuf/type.proto",
+    "uint32": "https://github.com/protocolbuffers/protobuf/blob/master/src/google/protobuf/type.proto",
+  },
+  "human_doc_links": {
+  }
+}
